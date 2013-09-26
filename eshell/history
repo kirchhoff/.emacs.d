@@ -1,0 +1,78 @@
+ls
+g++ -o a a.cpp 
+./awkprogs/
+cd ..
+./a
+python a.py 
+python
+ls
+vim a.py 
+./a.sh
+ls
+ls
+./a
+ls
+ls
+ls
+ls
+ls
+ll
+ll
+echo $$
+ls
+ls -l
+ls -l|more
+g++ -o a a.cpp
+g++ -o a a.cpp
+./a
+./a
+cd playground/
+ls
+rm -rf *
+ls
+ls
+vim a.cpp
+ls
+./a
+which gdb
+ls
+ll
+ls
+ls *.c
+gcc rtkcmn.c 
+gcc rtkcmn.c 
+gcc -c rtkcmn.c 
+gcc rtkcmn.c -o rtkcmn.o
+g++ rtkcmn.c 
+gcc -m32 rtkcmn.c 
+./a
+ls
+./a
+./hello 
+./hello 
+./test
+g++ -o test test2.cpp test3.cpp 
+ls
+./test.dSYM/
+cd ..
+ls
+g++ -o test33 test2.cpp test3.cpp 
+g++ -o test33 test2.cpp test3.cpp 
+ls
+mv test3.cpp test3.c
+mv test2.cpp test2.c
+gcc -o test33 test2.c test3.c 
+./test33
+gcc -o test33 test2.c test3.c 
+./test33
+gcc -o test33 test2.c test3.c 
+./test33
+./friday
+./friday
+./friday
+./friday
+./friday
+./friday 
+./friday 
+ls
+cd 
